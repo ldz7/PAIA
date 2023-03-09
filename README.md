@@ -1,4 +1,4 @@
-# Prior Information Assisted Integrative Analysis of Multiple Datasets*
+# Prior Information Assisted Integrative Analysis of Multiple Datasets
 
 Code for the Paper *Prior Information Assisted Integrative Analysis of Multiple Datasets*
 
